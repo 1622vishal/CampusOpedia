@@ -35,8 +35,7 @@ CampusOpedia aims to bridge the information gap between students and educational
 - **[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()** : For styling and layout.
 - **[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()** : For interactive features.
 - **[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()** : For responsive design.
-- **[![FontAwesome](https://img.shields.io/badge/FontAwesome-5.15.4-blue?style=for-the-badge&logo=font-awesome)]()
-**: For icons.
+- **[![FontAwesome](https://img.shields.io/badge/FontAwesome-5.15.4-blue?style=for-the-badge&logo=font-awesome)]()** : For icons.
 
 ## Screenshots
 
@@ -62,12 +61,11 @@ We welcome contributions to CampusOpedia! If you're interested in contributing, 
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-- **[![Email](https://img.shields.io/badge/Email-your.email@example.com-brightgreen?style=for-the-badge&logo=gmail)]()** : vishalyadav82738@gmail.com
-- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-your%20linkedin%20username-blue?style=for-the-badge&logo=linkedin)
-]**: [Vishal Yadav](https://www.linkedin.com/in/vishal-yadav-347275225/)
-- **GitHub**: [johndoe](https://github.com/johndoe)
-- **Twitter**: [@johndoe](https://twitter.com/johndoe)
-- **Portfolio**: [johndoe.dev](https://johndoe.dev)
+- **[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vishalyadav82738@gmail.com)** 
+- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav-347275225/)**
+- **[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1622vishal)**
+- **[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vishalyadav1622/)**
+- **Portfolio**: []()
 
 Feel free to reach out for any questions or collaboration opportunities!
 
