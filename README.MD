@@ -31,7 +31,7 @@ CampusOpedia aims to bridge the information gap between students and educational
 
 ## Technologies Used
 
-- **HTML5**: For content structuring.
+- **[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()**: For content structuring.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactive features.
 - **Bootstrap**: For responsive design.
@@ -40,13 +40,13 @@ CampusOpedia aims to bridge the information gap between students and educational
 ## Screenshots
 
 ### Homepage
-![CampusOpedia Homepage](D:\pictures\Screenshots\homepage.png)
+![CampusOpedia Homepage](img/ss/homepage.png)
 
 ### University Details Page
-![University Details](D:\pictures\Screenshots\details.png)
+![University Details](img/ss/details.png)
 
 ### Feedback Page
-![Feedback](D:\pictures\Screenshots\feedback.png)
+![Feedback](img/ss/feedback.png)
 
 ## Contributing
 
