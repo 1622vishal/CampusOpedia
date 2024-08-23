@@ -61,10 +61,11 @@ We welcome contributions to CampusOpedia! If you're interested in contributing, 
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-- **[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vishalyadav82738@gmail.com)** 
+- **[![Email](https://img.shields.io/badge/Email-vishalyadav82738%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalyadav82738@gmail.com)** 
 - **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav-347275225/)**
 - **[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1622vishal)**
 - **[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vishalyadav1622/)**
+- **[![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/f9f808ea-e62e-455e-a72b-65035bdc4ea1)**
 - **Portfolio**: []()
 
 Feel free to reach out for any questions or collaboration opportunities!
